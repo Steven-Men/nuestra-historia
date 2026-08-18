@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31162248/README.md)
-# nuestra-historia# Nuestra Historia 💙❤️
+# Nuestra Historia 💙❤️
 
 Galería privada para pareja: fotos con marco romántico, canciones que se
 reproducen mientras ven las fotos, momentos con ubicación, y una
