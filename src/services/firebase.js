@@ -16,12 +16,12 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 // 4) Activa Firestore Database y Storage (modo producción) y aplica las
 //    reglas que están en el README de este proyecto.
 const firebaseConfig = {
-  apiKey: 'TU_API_KEY',
-  authDomain: 'TU_PROYECTO.firebaseapp.com',
-  projectId: 'TU_PROYECTO',
-  storageBucket: 'TU_PROYECTO.appspot.com',
-  messagingSenderId: 'TU_SENDER_ID',
-  appId: 'TU_APP_ID',
+  apiKey: 'AIzaSyAc9RKc2vgZ7W4GpDxbs5qi106E6ha_Qjo',
+  authDomain: 'nuestra-historia-bs.firebaseapp.com',
+  projectId: 'nuestra-historia-bs',
+  storageBucket: 'nuestra-historia-bs.firebasestorage.app',
+  messagingSenderId: '412400551026',
+  appId: '1:412400551026:web:c48ddc5618958453b12eeb',
 };
 
 const app = getApps().length ? getApp() : initializeApp(firebaseConfig);
